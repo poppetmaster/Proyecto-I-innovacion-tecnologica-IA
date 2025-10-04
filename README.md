@@ -12,8 +12,8 @@ Este proyecto hace parte del curso **Proyecto 1 de Innovación Tecnológica** de
 
 ## 👥 Integrantes del equipo
 
-**Líder del equipo:** [Rubén Darío Sabogal Urbano](https://github.com/rubenesticesi) – @usuarioSlack  
-**Instructor:** [Milton Orlando Sarria Paja](https://github.com/miltonsarria) – @usuarioSlack
+**Líder del equipo:** [Rubén Darío Sabogal Urbano](https://github.com/rubenesticesi) – @rubenesticesi  
+**Instructor:** [Milton Orlando Sarria Paja](https://github.com/miltonsarria) – @miltonsarria
 
 | Nombre | Correo | Usuario |
 |:-------|:--------|:--------|
